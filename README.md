@@ -8,6 +8,7 @@
 
 <table width="700">
 <tr><td>
+<div align="center">
   
 ## 🔧 Technologia
 
@@ -19,6 +20,7 @@
 ![Terraform](https://img.shields.io/badge/Tools-Terraform-black?style=flat&logo=terraform&logoColor=white&labelColor=1a1a2e&color=f1eee9)
 ![Prometheus](https://img.shields.io/badge/Tools-Prometheus-black?style=flat&logo=prometheus&logoColor=white&labelColor=1a1a2e&color=f1eee9)
 
+</div>
 </td></tr>
 </table>
 
