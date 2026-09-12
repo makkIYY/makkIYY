@@ -1,8 +1,10 @@
-<img align="right" width="280" alt="Image" src="https://github.com/user-attachments/assets/7332ced7-613a-4afd-afe2-bae15c1f6e5f" />
+<img align="right" width="280" alt="Image" src="https://github.com/user-attachments/assets/edaa5b43-fcd7-43a2-a34e-de954ef3a3da" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f1eee9&center=true&multiline=true&repeat=false&width=700&height=150&lines=hello...;I+am+nana%2C+a+tech+beginner+n+detective+for+our+castle;glad+to+see+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=f1eee9&center=true&multiline=true&repeat=false&width=700&height=150&lines=hello...;I+am+nana%2C+a+tech+beginner+n+detective+for+our+castle;glad+to+see+you)](https://git.io/typing-svg)
+
+<br>
 
 <table width="700">
 <tr><td>
