@@ -1,27 +1,23 @@
-## Hi there 👋
+<img align="right" width="280" alt="Image" src="https://github.com/user-attachments/assets/7332ced7-613a-4afd-afe2-bae15c1f6e5f" />
 
-My name is Ahmad Maulana Maky
+<div align="center">
 
-👨‍🎓 I am student in Computer Engineering.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f1eee9&center=true&multiline=true&repeat=false&width=700&height=150&lines=hello...;I+am+nana%2C+a+tech+beginner+n+detective+for+our+castle;glad+to+see+you)](https://git.io/typing-svg)
 
-👽 I am interested in Embedded System, DevOps & Cloud Technology.
+<table width="700">
+<tr><td>
+  
+## 🔧 Technologia
 
-### Fun fact:
-- C++ enjoyer
-- Do manage memory efficient is challenging for small memory computer
-- I really like use open source such as Linux, Git, Podman, Opentofu
-- I am so interest everything configuration file with YAML
-<!--
-**maulanamaky/maulanamaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Linux](https://img.shields.io/badge/OS-Linux-black?style=flat&logo=linux&logoColor=white&labelColor=1a1a2e&color=f1eee9)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-black?style=flat&logo=cplusplus&logoColor=white&labelColor=1a1a2e&color=f1eee9)
+![Docker](https://img.shields.io/badge/Tools-Docker-black?style=flat&logo=docker&logoColor=white&labelColor=1a1a2e&color=f1eee9)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-black?style=flat&logo=postgresql&logoColor=white&labelColor=1a1a2e&color=f1eee9)
+  
+![Terraform](https://img.shields.io/badge/Tools-Terraform-black?style=flat&logo=terraform&logoColor=white&labelColor=1a1a2e&color=f1eee9)
+![Prometheus](https://img.shields.io/badge/Tools-Prometheus-black?style=flat&logo=prometheus&logoColor=white&labelColor=1a1a2e&color=f1eee9)
 
-Here are some ideas to get you started:
+</td></tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
